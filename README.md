@@ -30,6 +30,6 @@ https://v1books.github.io/register/
 
 ## 外部依存
 
-- [ZXing](https://github.com/zxing-js/library)（バーコード読取）
+- [zxing-wasm](https://github.com/Sec-ant/zxing-wasm)（zxing-cpp。`vendor/` に同梱、バーコード読取）
 - [openBD](https://openbd.jp/) / Google Books API（書誌情報）
 - Noto Sans JP（Google Fonts）
